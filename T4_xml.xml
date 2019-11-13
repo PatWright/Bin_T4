@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-1465683.256704941" miny="6365837.707781872" maxx="836328.460848657" maxy="8645977.580038048"/>
+      <Origin x="-0.14454386743577" y="51.50878656780426"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="5"  order="5"/>
+        <TileSet href="6"  order="6"/>
+        <TileSet href="7"  order="7"/>
+        <TileSet href="8"  order="8"/>
+      </TileSets>
+    </TileMap>
